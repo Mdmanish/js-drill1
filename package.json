@@ -1,0 +1,25 @@
+{
+  "name": "drill_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inventory.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mountblue/cohort-22-python/manish/javascript/javascriptdrill1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mountblue/cohort-22-python/manish/javascript/javascriptdrill1/issues"
+  },
+  "homepage": "https://gitlab.com/mountblue/cohort-22-python/manish/javascript/javascriptdrill1#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
